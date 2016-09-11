@@ -12,7 +12,7 @@ class DashboardsController < ApplicationController
             'to' => '/topics/all',
             'data' => {
               'gate' => '1F',
-              'locationIds' => ['37.784847:-122.409227', '37.784173:-122.401557']
+              'locationIds' => ['37.621414:-122.381134', '37.78629:-122.401375', '37.775585:-122.3901']
             }
         }.to_json
 
